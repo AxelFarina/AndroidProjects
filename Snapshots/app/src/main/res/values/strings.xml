@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Snapshots</string>
+    <string name="home_title">Inicio</string>
+    <string name="home_add">Crear</string>
+    <string name="home_profile">Perfil</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="post_message_title">Seleccione una imagen</string>
+    <string name="post_message_valid_title">"Por favor, añada un titulo "</string>
+    <string name="settings_title">Configuraciones</string>
+    <string name="preferences_theme_mode">Estilo de tema</string>
+    <string name="preferences_dark_mode">Tema oscuro</string>
+    <string name="preferences_key_dark_mode">pref_dark_mode</string>
+    <string name="dialog_delete_title">¿Eliminar instantánea?</string>
+    <string name="dialog_delete_confirm">Eliminar</string>
+    <string name="dialog_delete_cancel">Cancelar</string>
+    <string name="post_message_post_image_fail">No se pudo subir la fotografía.</string>
+    <string name="post_message_post_success">Instantánea publicada.</string>
+    <string name="post_message_post_snapshot_fail">No se pudo publicar la instantánea.</string>
+    <string name="helper_required">Requerido</string>
+    <string name="dialog_logout_title">¿Desea cerrar la sesión actual?</string>
+    <string name="dialog_logout_confirm">Cerrar</string>
+    <string name="dialog_logout_cancel">Cancelar</string>
+    <string name="profile_logout_success">Hasta pronto&#8230;</string>
+</resources>

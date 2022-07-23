@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Registration</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_surname">Apellidos</string>
+    <string name="hint_phone">Telefono</string>
+    <string name="hint_date_birth">Fecha de nacimiento</string>
+    <string name="textview_sex_name">Sexo:</string>
+    <string name="checkbox_sex_name_male">Hombre</string>
+    <string name="checkbox_sex_name_female">Mujer</string>
+    <string name="sign_up">Registrate</string>
+    <string name="mobile_app_text">Mobile App</string>
+    <string name="get_start_text">Get Start</string>
+    <string name="hint_user">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="log_in_text">Log In</string>
+    <string name="sing_up_text">Sing Up</string>
+    <string name="forgot_password_text">Forgot Password?</string>
+    <string name="remember_me_text">Remember me</string>
+    <string name="back_text">Back</string>
+    <string name="welcome_text">Welcome</string>
+</resources>

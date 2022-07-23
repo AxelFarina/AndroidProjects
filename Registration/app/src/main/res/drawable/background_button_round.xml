@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_pressed="false">
+        <shape
+            android:shape="rectangle">
+
+        <corners android:radius="24dp"/>
+
+        <gradient
+            android:startColor="@color/white"
+            android:endColor="@color/white"
+            android:gradientRadius="80%"
+            android:type="radial"
+            android:centerX="0.5"
+            android:centerY="0.5"/>
+
+            <stroke
+                android:width="2dp"
+                android:color="@color/white"/>
+
+            <padding
+                android:top="@dimen/common_padding_min"
+                android:bottom="@dimen/common_padding_min"
+                android:left="@dimen/common_padding_min"
+                android:right="@dimen/common_padding_min"/>
+
+        </shape>
+    </item>
+    <item android:state_pressed="true">
+        <shape
+            android:shape="rectangle">
+
+            <corners android:radius="24dp"/>
+
+            <gradient
+                android:startColor="@color/indigo_900"
+                android:endColor="@color/indigo_900"
+                android:centerColor="@color/white"
+                android:gradientRadius="100%"
+                android:type="linear"
+                android:centerX="0.5"
+                android:centerY="0.5"/>
+
+            <stroke
+                android:width="2dp"
+                android:color="@color/indigo_900"/>
+
+            <padding
+                android:top="@dimen/common_padding_min"
+                android:bottom="@dimen/common_padding_min"
+                android:left="@dimen/common_padding_min"
+                android:right="@dimen/common_padding_min"/>
+
+        </shape>
+    </item>
+
+</selector>

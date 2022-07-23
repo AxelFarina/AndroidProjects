@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Profile</string>
+
+    <string name="hint_name">Nombre</string>
+    <string name="hint_email">Correo Electronico</string>
+    <string name="hint_website">Sitio Web</string>
+    <string name="hint_phone">Telefono</string>
+    <string name="hint_location">Ubicacion</string>
+    <string name="hint_latitude">Latitud</string>
+    <string name="hint_length">Longitud</string>
+    <string name="hint_ubication">Habilitar Ubicacion</string>
+
+    <string name="main_show_map">Ver en el mapa</string>
+
+    <string name="edit_title">Editar datos de usuarios</string>
+
+    <string name="key_name">k_name</string>
+    <string name="key_email">k_email</string>
+    <string name="key_website">k_website</string>
+    <string name="key_phone">k_phone</string>
+    <string name="key_latitude">k_lat</string>
+    <string name="key_length">k_long</string>
+    <string name="profile_error_no_resolve">No se encontro una app compatible</string>
+    <string name="key_image">k_image</string>
+    <string name="settings_title">Configuraciones</string>
+    <string name="preferences_touch_title">Touch</string>
+    <string name="preferences_enable_clicks">Habilitar Clicks</string>
+    <string name="preferences_key_enable_clicks">pref_enable_clicks</string>
+    <string name="preferences_data_title">Datos</string>
+    <string name="preferences_delete_data">Eliminar datos del usuario</string>
+    <string name="preferences_key_delete_data">pref_delete_data</string>
+    <string name="preferences_restore_data">Restaurar datos y configuraciones</string>
+    <string name="preferences_key_restore_data">pref_restore_data</string>
+
+    <string name="preferences_img_size_small">Chica</string>
+    <string name="preferences_img_size_medium">Mediana</string>
+    <string name="preferences_img_size_large">Grande</string>
+    <string name="preferences_key_img_size_small">pref_small</string>
+    <string name="preferences_key_img_size_medium">pref_medium</string>
+    <string name="preferences_key_img_size_large">pref_large</string>
+    <string name="preferences_ui_title">Interfaz</string>
+    <string name="preferences_ui_img_size">Tamaño de la imagen</string>
+    <string name="preferences_key_ui_img_size">pref_ui_img_size</string>
+    <string name="preferences_restore_settings">Restaurar Configuraciones</string>
+    <string name="preferences_key_restore_settings">pref_restore_settings</string>
+</resources>

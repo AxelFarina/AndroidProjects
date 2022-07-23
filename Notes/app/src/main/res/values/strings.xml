@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="hint_description">Añade una nota</string>
+    <string name="dialog_title">¿Esta seguro que desea eliminar esta nota?</string>
+    <string name="dialog_ok">Eliminar</string>
+    <string name="dialog_cancel">Cancelar</string>
+    <string name="validation_field_required">Nota requerida</string>
+    <string name="notes_pending">Pendientes:</string>
+    <string name="notes_finished">Realizadas:</string>
+    <string name="message_write_database_success">Operacion exitosa.</string>
+    <string name="message_write_database_error">Error al modificar la base de datos</string>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--Exported color-->
+    <color name="primaryColor">#0277bd</color>
+    <color name="primaryDarkColor">#004c8c</color>
+    <color name="secondaryColor">#ff1744</color>
+    <color name="secondaryDarkColor">#c4001d</color>
+
+    <!--Dark.Theme-->
+    <color name="primaryColor_BlackMode">#424242</color>
+    <color name="primaryLightColor_BlackMode">#6d6d6d</color>
+    <color name="primaryDarkColor_BlackMode">#1b1b1b</color>
+    <color name="secondaryColor_BlackMode">#bf360c</color>
+    <color name="secondaryLightColor_BlackMode">#f9683a</color>
+    <color name="secondaryDarkColor_BlackMode">#870000</color>
+    <color name="primaryTextColor_BlackMode">#ffffff</color>
+    <color name="secondaryTextColor_BlackMode">#ffffff</color>
+
+    <!--Red.Theme
+    <color name="primaryColor">#bf360c</color>
+    <color name="primaryLightColor">#f9683a</color>
+    <color name="primaryDarkColor">#870000</color>
+    <color name="secondaryColor">#424242</color>
+    <color name="secondaryLightColor">#6d6d6d</color>
+    <color name="secondaryDarkColor">#1b1b1b</color>
+    <color name="primaryTextColor">#ffffff</color>
+    <color name="secondaryTextColor">#ffffff</color>-->
+
+</resources>
